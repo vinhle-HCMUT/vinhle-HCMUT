@@ -4,7 +4,7 @@
 * 🎓 Senior at HCMUT
 * 🔭 I’m currently working on **IoT projects and Python APIs** (like MuseAmigo)
 * 🌱 I’m sharpening my skills in **Data Structures & Algorithms** and **C++**
-* 📫 How to reach me: **[Insert your LinkedIn URL or Professional Email here]**
+* 📫 How to reach me: **congvinh7304@gmail.com**
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
