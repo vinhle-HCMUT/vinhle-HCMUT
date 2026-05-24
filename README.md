@@ -16,6 +16,4 @@
 
 ### 📊 GitHub Stats
 
-![vinhle-HCMUT's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinhle-HCMUT&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinhle-HCMUT&layout=compact&theme=tokyonight&hide_border=true)
+![Ethan's GitHub Streak](https://streak-stats.demolab.com/?user=vinhle-HCMUT&theme=tokyonight&hide_border=true)
